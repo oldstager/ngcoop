@@ -2,7 +2,11 @@
 
 Document for New Generation Cooperatives.
 
-## Master Data
+![Diagram Arsitektur Software](android-koperasi.jpg)
+
+## Internal Software
+
+### Master Data
 
 1. Master Instansi
 2. Master Unit Kerja
@@ -10,12 +14,12 @@ Document for New Generation Cooperatives.
 4. Master Jenis Simpanan
 5. Master Jenis Pinjaman 
 
-## Transaksi Jurnal 
+### Transaksi Jurnal 
 
 1. Jurnal Umum
 2. History 
 
-## Jurnal Transaksi Simpanan
+### Jurnal Transaksi Simpanan
 
 1. Pendaftaran Simpanan
 2. Pendaftaran Simpanan Per Wilayah
@@ -25,24 +29,24 @@ Document for New Generation Cooperatives.
 6. Pemberian Bunga Simpanan
 7. Cek Transaksi Simpanan 
 
-## Transaksi Pinjaman
+### Transaksi Pinjaman
 
 1. Pengajuan Pinjaman
 2. Pendaftaran Pinjaman
 3. Angsuran
 
-## Transaksi Angsuran
+### Transaksi Angsuran
 
 1. Pencatatan Angsuran
 2. Daftar Angsuran Bulanan
 
-## SHU
+### SHU
 
 1. Pembagian SHU
 2. Pengambilan SHU
 3. Daftar Pengambilan SHU
 
-## Laporan
+### Laporan
 
 01. Laporan Rekap Simpanan
 02. Laporan Rekap Transaksi Simpanan
